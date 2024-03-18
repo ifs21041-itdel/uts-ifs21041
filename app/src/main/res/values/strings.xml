@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="info_dino_famili">Nama Famili</string>
+    <string name="info_dino_icon">Ikon Dino</string>
+    <string name="info_dino_desc">Deskripsi</string>
+    <string name="info_dino_period">Periode Hidup</string>
+    <string name="info_dino_characteristic">Karakteristik Fisik</string>
+    <string name="info_dino_habitat">Habitat</string>
+    <string name="info_dino_lingkungan">Lingkungan</string>
+    <string name="info_dino_perilaku">Perilaku</string>
+    <string name="info_dino_klasifikasi">Klasifikasi</string>
+
+    <string-array name="dino_famili">
+        <item>Tyrannosauridae</item>
+        <item>Sauropod</item>
+        <item>Hadrosauridae</item>
+        <item>Ceratopsidae</item>
+        <item>Ornithomimidae</item>
+        <item>Ankylosauridae</item>
+        <item>Stegosauridae</item>
+        <item>Therizinosauridae</item>
+    </string-array>
+
+    <string-array name="dino_icon">
+        <item>@drawable/tyrannosaurus</item>
+        <item>@drawable/sauropodbrachiosaurus</item>
+        <item>@drawable/parasaurolophus</item>
+        <item>@drawable/triceratops</item>
+        <item>@drawable/struthiomimus</item>
+        <item>@drawable/ankylosaurus</item>
+        <item>@drawable/stegosaurus</item>
+        <item>@drawable/nothronychus</item>
+    </string-array>
+
+    <string-array name="dino_desc">
+        <item>Tyrannosauridae: Famili ini terkenal karena anggotanya yang besar dan ganas, seperti Tyrannosaurus rex, yang merupakan predator karnivora terbesar yang pernah hidup.</item>
+        <item>Sauropod: Kelompok ini terdiri dari dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan ekor yang kuat. Contoh termasuk Brachiosaurus dan Diplodocus.</item>
+        <item>Hadrosauridae: Famili ini juga dikenal sebagai "dinosaurus bebek" karena memiliki rahang bawah yang bercabang, mirip dengan paruh bebek modern. Contoh terkenalnya adalah Parasaurolophus dan Edmontosaurus.</item>
+        <item>Ceratopsidae: Dinosaurus dalam kelompok ini memiliki tanduk dan lempengan tanduk yang mencolok di tengkorak mereka. Triceratops adalah contoh yang paling terkenal dari famili ini.</item>
+        <item>Ornithomimidae: Dikenal sebagai "dinosaurus berbentuk burung", famili ini memiliki tubuh ringan dan panjang dengan kaki yang panjang, serta paruh seperti burung. Contoh termasuk Struthiomimus dan Gallimimus.</item>
+        <item>Ankylosauridae: Dinosaurus dalam kelompok ini memiliki tubuh yang dilapisi oleh cekungan tulang dan duri, serta ekor yang tebal dan berat. Ankylosaurus adalah contoh yang paling terkenal.</item>
+        <item>Stegosauridae: Famili ini memiliki ciri khas dalam bentuk lempeng-lempleng tulang besar di punggung mereka. Stegosaurus adalah salah satu contoh yang paling terkenal.</item>
+        <item>Therizinosauridae: Kelompok ini terdiri dari dinosaurus herbivora besar dengan cakar besar yang tidak biasa. Mereka memiliki bentuk tubuh yang aneh dan masih menjadi subjek penelitian ilmiah yang aktif. Contoh termasuk Therizinosaurus dan Nothronychus</item>
+    </string-array>
+    <string-array name="dino_period">
+        <item>Tyrannosauridae: Rentang waktu dominasi Tyrannosauridae terutama berada pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu.</item>
+        <item>Sauropoda hadir dari awal hingga akhir periode Jurassic, sekitar 201 hingga 145 juta tahun yang lalu. Beberapa spesies juga ada di awal periode Kapur.</item>
+        <item>Hadrosauridae: Kelompok ini juga dominan selama periode Kapur, dari sekitar 100 hingga 66 juta tahun yang lalu.</item>
+        <item>Ceratopsidae: Dinosaurus dalam kelompok ini hidup di periode Kapur Akhir, sekitar 85 hingga 66 juta tahun yang lalu.</item>
+        <item>Ornithomimidae: Dikenal sebagai "dinosaurus berbentuk burung", kelompok ini hidup selama periode Kapur, sekitar 145 hingga 66 juta tahun yang lalu.</item>
+        <item>Ankylosauridae: Rentang waktu dominasi Ankylosauridae juga terjadi pada periode Kapur Akhir, sekitar 68 hingga 66 juta tahun yang lalu.</item>
+        <item>Stegosauridae: Famili ini hidup di periode Jurassic hingga Kapur Awal, sekitar 155 hingga 136 juta tahun yang lalu.</item>
+        <item>Therizinosauridae: Kelompok ini juga hidup selama periode Kapur, sekitar 125 hingga 66 juta tahun yang lalu.</item>
+    </string-array>
+    <string-array name="dino_characteristic">
+        <item>Memiliki tengkorak besar dengan rahang yang kuat dan gigi tajam.</item>
+        <item>Memiliki leher yang sangat panjang dan tubuh besar yang didukung oleh empat kaki yang kuat.</item>
+        <item>Dikenal karena rahang bawah mereka yang bercabang, mirip dengan paruh bebek modern.</item>
+        <item>Memiliki tanduk dan lempeng tanduk yang mencolok di tengkorak mereka.</item>
+        <item>Memiliki tubuh yang ringan dan panjang dengan kaki yang panjang, serta paruh seperti burung.</item>
+        <item>Memiliki tubuh yang dilapisi oleh cekungan tulang dan duri, serta ekor yang tebal dan berat.</item>
+        <item>Memiliki ciri khas dalam bentuk lempeng-lempleng tulang besar di punggung mereka.</item>
+        <item>Tubuh yang besar dengan kaki yang kuat, tetapi memiliki cakar yang besar pada lengan depan mereka.</item>
+    </string-array>
+
+    <string-array name="dino_habitat">
+        <item> Biasanya ditemukan di daerah daratan atau dataran terbuka yang luas, mungkin dengan vegetasi yang cukup untuk menyediakan makanan bagi mangsanya</item>
+        <item>Hidup di berbagai habitat, termasuk dataran banjir, hutan, dan wilayah yang subur. Mereka sering ditemukan di daerah yang memiliki banyak tumbuhan tinggi.</item>
+        <item>Umumnya ditemukan di daerah yang lembab seperti dataran banjir, rawa-rawa, atau daerah pantai. Mereka mungkin sering berada di dekat air.</item>
+        <item>Mungkin ditemukan di berbagai habitat, termasuk dataran rendah, hutan, dan wilayah berawa. Beberapa spesies juga mungkin hidup di daerah yang lebih kering. </item>
+        <item>Mungkin hidup di berbagai habitat, termasuk hutan, dataran terbuka, dan daerah semi-arid. Mereka sering berada di daerah yang memiliki cukup sumber makanan</item>
+        <item>Biasanya ditemukan di daerah yang lebih kering seperti padang rumput atau padang pasir. Mereka mungkin berada di daerah yang terlindungi atau berbatu untuk melindungi diri mereka dari predator.</item>
+        <item>Mungkin hidup di daerah yang lebih hijau dan lembab seperti hutan atau daerah dataran tinggi dengan vegetasi yang cukup.</item>
+        <item>Mungkin ditemukan di berbagai habitat, termasuk hutan lebat, hutan rawa, dan dataran banjir. Mereka sering berada di dekat sumber air dan memiliki akses ke berbagai jenis tumbuhan untuk makanan.</item>
+
+    </string-array>
+
+    <string-array name="dino_lingkungan">
+        <item>Tyrannosauridae: Lingkungan yang cenderung beragam, dari hutan hingga dataran terbuka, dengan iklim yang mungkin beragam dari subtropis hingga sedang.</item>
+        <item>Sauropod: Lingkungan yang didominasi oleh hutan-hutan lebat, sungai, dan daerah berawa, dengan iklim yang lembab dan hangat.</item>
+        <item>Hadrosauridae:Lingkungan yang beragam, termasuk hutan lebat, daerah banjir, dan hutan dataran rendah, dengan iklim yang hangat dan lembab.</item>
+        <item>Ceratopsidae:Lingkungan yang cenderung kering dengan vegetasi padang rumput, hutan gugur, dan daerah berbatu, dengan iklim yang mungkin sedang hingga hangat.</item>
+        <item>Ornithomimidae:Lingkungan terbuka dengan vegetasi padang rumput dan hutan jarang, dengan iklim yang cenderung kering dan panas.</item>
+        <item>Ankylosauridae: Lingkungan yang cenderung lembab dengan vegetasi yang beragam, termasuk hutan lebat dan daerah berawa, dengan iklim yang mungkin sedang hingga hangat.</item>
+        <item>Stegosauridae: Lingkungan yang cenderung lembab dengan vegetasi hutan yang lebat, dengan iklim yang mungkin sedang hingga hangat.</item>
+        <item>Therizinosauridae: Lingkungan yang cenderung lembab dengan vegetasi hutan yang lebat, dengan iklim yang mungkin sedang hingga hangat.</item>
+
+    </string-array>
+
+    <string-array name="dino_perilaku">
+        <item>Tyrannosauridae: Biasanya diperkirakan sebagai predator soliter atau pemburu tunggal yang beroperasi sendiri.</item>
+        <item>Sauropod:Diperkirakan hidup dalam kawanan besar dan bergerak secara bersama-sama untuk mencari makanan.</item>
+        <item>Hadrosauridae:Diketahui sering bergerombol dalam kelompok besar untuk melindungi diri dari predator. </item>
+        <item>Ceratopsidae:Diperkirakan memiliki perilaku bertarung antara anggota spesies untuk mendapatkan hak kawin atau wilayah. </item>
+        <item>Ornithomimidae:Dipercaya memiliki perilaku yang cepat dan lincah, mungkin digunakan untuk melarikan diri dari predator atau mengejar mangsa kecil.</item>
+        <item>Ankylosauridae: Mungkin memiliki perilaku yang cenderung lambat dan defensif, dengan sedikit pergerakan kecuali jika terancam.</item>
+        <item>Stegosauridae:Diperkirakan memiliki perilaku bertahan yang kuat dengan menggunakan lempeng punggungnya sebagai pertahanan dari predator. </item>
+        <item>Therizinosauridae:Dipercaya memiliki perilaku herbivora yang mungkin mencabut dedaunan atau buah-buahan dari pohon menggunakan cakarnya yang besar. </item>
+
+    </string-array>
+    <string-array name="dino_klasifikasi">
+        <item>Tyrannosauridae: Tyrannosauridae merupakan famili dinosaurus karnivora yang terkenal dengan anggotanya yang besar dan ganas, seperti Tyrannosaurus rex. Mereka tergolong dalam ordo Saurischia dan infraordo Tetanurae. Anggota famili ini memiliki tengkorak besar dengan rahang yang kuat dan gigi tajam yang dirancang untuk merobek daging. Prediksi utama mereka biasanya berada di daratan terbuka, hutan, dan daerah berawa.</item>
+        <item>Sauropod:Sauropod adalah kelompok dinosaurus herbivora raksasa dengan leher panjang, tubuh besar, dan ekor yang kuat. Mereka tergolong dalam infraordo Sauropodomorpha, yang juga mencakup dinosaurus lain seperti Brachiosaurus dan Diplodocus. Sauropod biasanya ditemukan di daerah dataran banjir, lembah sungai, dan hutan tropis.</item>
+        <item>Hadrosauridae: Hadrosauridae, juga dikenal sebagai "dinosaurus bebek", memiliki ciri khas rahang bawah yang bercabang, mirip dengan paruh bebek modern. Mereka tergolong dalam infraordo Ornithopoda dan ditemukan terutama di dataran banjir, sungai, dan hutan daerah tropis dan subtropis.</item>
+        <item>Ceratopsidae: Ceratopsidae adalah famili dinosaurus yang dikenal dengan tanduk dan lempeng tanduk yang mencolok di tengkorak mereka. Mereka tergolong dalam infraordo Ceratopsia dan biasanya hidup di padang rumput, hutan dataran rendah, dan lembah sungai. </item>
+        <item>Ornithomimidae:Ornithomimidae, atau "dinosaurus berbentuk burung", memiliki tubuh yang ringan dan panjang dengan kaki yang panjang, serta paruh seperti burung. Mereka tergolong dalam infraordo Coelurosauria dan ditemukan di padang rumput, hutan dataran rendah, dan daerah pantai.</item>
+        <item>Ankylosauridae:Ankylosauridae memiliki tubuh yang dilapisi oleh cekungan tulang dan duri, serta ekor yang tebal dan berat. Mereka tergolong dalam infraordo Ankylosauria dan biasanya ditemukan di hutan dataran rendah, hutan lebat, dan daerah berawa. </item>
+        <item>Stegosauridae: Stegosauridae memiliki ciri khas dalam bentuk lempeng-lempleng tulang besar di punggung mereka. Mereka tergolong dalam infraordo Stegosauria dan ditemukan terutama di hutan lebat, daerah berawa, dan dataran rendah.</item>
+        <item>Therizinosauridae:Therizinosauridae adalah kelompok dinosaurus herbivora besar dengan cakar besar yang tidak biasa. Mereka tergolong dalam infraordo Theropoda dan hidup di hutan lebat, dataran tinggi, dan daerah berawa.</item>
+
+    </string-array>
+
+</resources>
+
+
+
